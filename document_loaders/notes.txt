@@ -1,0 +1,27 @@
+
+Artificial Intelligence Notes
+
+Introduction
+Artificial Intelligence (AI) is the field of computer science focused on creating systems
+that can perform tasks requiring human intelligence.
+
+Applications of AI
+1. Recommendation Systems
+2. Chatbots
+3. Self-driving Cars
+4. Medical Diagnosis
+5. Fraud Detection
+
+Machine Learning
+Machine Learning is a subset of AI where systems learn patterns from data.
+
+Types of Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+Natural Language Processing
+NLP allows computers to understand and generate human language.
+
+Conclusion
+AI is transforming industries and creating new opportunities in technology.
